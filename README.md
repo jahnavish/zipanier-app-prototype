@@ -9,9 +9,18 @@ The layout of the application has been made using InVision. It represents the pr
 
 The prototype is made using Figma. It provides a visual representation of how the application would look like on mobile devices, paying attention to the UI aspect and keeping in mind the important functionalities of an e-commerce application with ease-of-navigation for users kept as the primary focus.
 
-![Zipanier-App-Prototype-Figma](https://github.com/jahnavish/zipanier-app-prototype/assets/81350016/ebbb226b-ec32-48be-9ed0-4c4c6257b068)
+![Zipanier-App-Prototype-Figma](https://github.com/jahnavish/zipanier-app-prototype/assets/81350016/350fc0dc-5569-495f-a544-de9166b7aae5)
 
 Here is the video representation of the prototype through the perspective of a user navigating through the application:
 
 https://github.com/jahnavish/zipanier-app-prototype/assets/81350016/a0af4e86-0617-4941-b4ff-8173ea3eae01
 
+### You can view the UI Design and Prototype on Figma here:
+
+### The UI Design:
+
+https://www.figma.com/file/ToKs5S2qJotMEfSyIvtctV/Zipanier-App?type=design&node-id=0%3A1&t=fdDcUNzhkQdrkyIh-1
+
+### The Prototype:
+
+https://www.figma.com/proto/ToKs5S2qJotMEfSyIvtctV/Zipanier-App?node-id=7-14&starting-point-node-id=0%3A3
